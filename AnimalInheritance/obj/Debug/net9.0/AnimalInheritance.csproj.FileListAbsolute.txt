@@ -1,0 +1,14 @@
+C:\Users\Fulbert Aseye\Desktop\dcit318-assignment2-11013361\AnimalInheritance\bin\Debug\net9.0\AnimalInheritance.exe
+C:\Users\Fulbert Aseye\Desktop\dcit318-assignment2-11013361\AnimalInheritance\bin\Debug\net9.0\AnimalInheritance.deps.json
+C:\Users\Fulbert Aseye\Desktop\dcit318-assignment2-11013361\AnimalInheritance\bin\Debug\net9.0\AnimalInheritance.runtimeconfig.json
+C:\Users\Fulbert Aseye\Desktop\dcit318-assignment2-11013361\AnimalInheritance\bin\Debug\net9.0\AnimalInheritance.dll
+C:\Users\Fulbert Aseye\Desktop\dcit318-assignment2-11013361\AnimalInheritance\bin\Debug\net9.0\AnimalInheritance.pdb
+C:\Users\Fulbert Aseye\Desktop\dcit318-assignment2-11013361\AnimalInheritance\obj\Debug\net9.0\AnimalInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fulbert Aseye\Desktop\dcit318-assignment2-11013361\AnimalInheritance\obj\Debug\net9.0\AnimalInheritance.AssemblyInfoInputs.cache
+C:\Users\Fulbert Aseye\Desktop\dcit318-assignment2-11013361\AnimalInheritance\obj\Debug\net9.0\AnimalInheritance.AssemblyInfo.cs
+C:\Users\Fulbert Aseye\Desktop\dcit318-assignment2-11013361\AnimalInheritance\obj\Debug\net9.0\AnimalInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Fulbert Aseye\Desktop\dcit318-assignment2-11013361\AnimalInheritance\obj\Debug\net9.0\AnimalInheritance.dll
+C:\Users\Fulbert Aseye\Desktop\dcit318-assignment2-11013361\AnimalInheritance\obj\Debug\net9.0\refint\AnimalInheritance.dll
+C:\Users\Fulbert Aseye\Desktop\dcit318-assignment2-11013361\AnimalInheritance\obj\Debug\net9.0\AnimalInheritance.pdb
+C:\Users\Fulbert Aseye\Desktop\dcit318-assignment2-11013361\AnimalInheritance\obj\Debug\net9.0\AnimalInheritance.genruntimeconfig.cache
+C:\Users\Fulbert Aseye\Desktop\dcit318-assignment2-11013361\AnimalInheritance\obj\Debug\net9.0\ref\AnimalInheritance.dll
