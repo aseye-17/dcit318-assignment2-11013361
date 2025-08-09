@@ -1,0 +1,15 @@
+C:\Users\Fulbert Aseye\Desktop\dcit318-assignment2-11013361\AbstractShapes\bin\Debug\net9.0\AbstractShapes.exe
+C:\Users\Fulbert Aseye\Desktop\dcit318-assignment2-11013361\AbstractShapes\bin\Debug\net9.0\AbstractShapes.deps.json
+C:\Users\Fulbert Aseye\Desktop\dcit318-assignment2-11013361\AbstractShapes\bin\Debug\net9.0\AbstractShapes.runtimeconfig.json
+C:\Users\Fulbert Aseye\Desktop\dcit318-assignment2-11013361\AbstractShapes\bin\Debug\net9.0\AbstractShapes.dll
+C:\Users\Fulbert Aseye\Desktop\dcit318-assignment2-11013361\AbstractShapes\bin\Debug\net9.0\AbstractShapes.pdb
+C:\Users\Fulbert Aseye\Desktop\dcit318-assignment2-11013361\AbstractShapes\obj\Debug\net9.0\AbstractShapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fulbert Aseye\Desktop\dcit318-assignment2-11013361\AbstractShapes\obj\Debug\net9.0\AbstractShapes.AssemblyInfoInputs.cache
+C:\Users\Fulbert Aseye\Desktop\dcit318-assignment2-11013361\AbstractShapes\obj\Debug\net9.0\AbstractShapes.AssemblyInfo.cs
+C:\Users\Fulbert Aseye\Desktop\dcit318-assignment2-11013361\AbstractShapes\obj\Debug\net9.0\AbstractShapes.csproj.CoreCompileInputs.cache
+C:\Users\Fulbert Aseye\Desktop\dcit318-assignment2-11013361\AbstractShapes\obj\Debug\net9.0\AbstractShapes.sourcelink.json
+C:\Users\Fulbert Aseye\Desktop\dcit318-assignment2-11013361\AbstractShapes\obj\Debug\net9.0\AbstractShapes.dll
+C:\Users\Fulbert Aseye\Desktop\dcit318-assignment2-11013361\AbstractShapes\obj\Debug\net9.0\refint\AbstractShapes.dll
+C:\Users\Fulbert Aseye\Desktop\dcit318-assignment2-11013361\AbstractShapes\obj\Debug\net9.0\AbstractShapes.pdb
+C:\Users\Fulbert Aseye\Desktop\dcit318-assignment2-11013361\AbstractShapes\obj\Debug\net9.0\AbstractShapes.genruntimeconfig.cache
+C:\Users\Fulbert Aseye\Desktop\dcit318-assignment2-11013361\AbstractShapes\obj\Debug\net9.0\ref\AbstractShapes.dll
