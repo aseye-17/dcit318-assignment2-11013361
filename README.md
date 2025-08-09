@@ -8,3 +8,6 @@ This repository contains the solutions for Assignment 2, demonstrating different
 
 
 ### Task 2: Abstract Classes and Methods
+
+### Task 3: Interfaces
+

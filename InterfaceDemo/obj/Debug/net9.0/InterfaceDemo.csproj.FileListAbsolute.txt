@@ -1,0 +1,15 @@
+C:\Users\Fulbert Aseye\Desktop\dcit318-assignment2-11013361\InterfaceDemo\bin\Debug\net9.0\InterfaceDemo.exe
+C:\Users\Fulbert Aseye\Desktop\dcit318-assignment2-11013361\InterfaceDemo\bin\Debug\net9.0\InterfaceDemo.deps.json
+C:\Users\Fulbert Aseye\Desktop\dcit318-assignment2-11013361\InterfaceDemo\bin\Debug\net9.0\InterfaceDemo.runtimeconfig.json
+C:\Users\Fulbert Aseye\Desktop\dcit318-assignment2-11013361\InterfaceDemo\bin\Debug\net9.0\InterfaceDemo.dll
+C:\Users\Fulbert Aseye\Desktop\dcit318-assignment2-11013361\InterfaceDemo\bin\Debug\net9.0\InterfaceDemo.pdb
+C:\Users\Fulbert Aseye\Desktop\dcit318-assignment2-11013361\InterfaceDemo\obj\Debug\net9.0\InterfaceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fulbert Aseye\Desktop\dcit318-assignment2-11013361\InterfaceDemo\obj\Debug\net9.0\InterfaceDemo.AssemblyInfoInputs.cache
+C:\Users\Fulbert Aseye\Desktop\dcit318-assignment2-11013361\InterfaceDemo\obj\Debug\net9.0\InterfaceDemo.AssemblyInfo.cs
+C:\Users\Fulbert Aseye\Desktop\dcit318-assignment2-11013361\InterfaceDemo\obj\Debug\net9.0\InterfaceDemo.csproj.CoreCompileInputs.cache
+C:\Users\Fulbert Aseye\Desktop\dcit318-assignment2-11013361\InterfaceDemo\obj\Debug\net9.0\InterfaceDemo.sourcelink.json
+C:\Users\Fulbert Aseye\Desktop\dcit318-assignment2-11013361\InterfaceDemo\obj\Debug\net9.0\InterfaceDemo.dll
+C:\Users\Fulbert Aseye\Desktop\dcit318-assignment2-11013361\InterfaceDemo\obj\Debug\net9.0\refint\InterfaceDemo.dll
+C:\Users\Fulbert Aseye\Desktop\dcit318-assignment2-11013361\InterfaceDemo\obj\Debug\net9.0\InterfaceDemo.pdb
+C:\Users\Fulbert Aseye\Desktop\dcit318-assignment2-11013361\InterfaceDemo\obj\Debug\net9.0\InterfaceDemo.genruntimeconfig.cache
+C:\Users\Fulbert Aseye\Desktop\dcit318-assignment2-11013361\InterfaceDemo\obj\Debug\net9.0\ref\InterfaceDemo.dll
